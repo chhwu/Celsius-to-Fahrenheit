@@ -1,1 +1,1 @@
-# Celsius-to-Fahrenheit
+# This is a program that changes degree from Celsius to Fahrenheit.
